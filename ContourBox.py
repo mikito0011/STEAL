@@ -25,7 +25,7 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-import contours.cutils as cutils
+import cutils as cutils
 
 
 class LevelSetAlignmentBase:

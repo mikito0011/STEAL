@@ -29,7 +29,7 @@ import torch
 import numpy as np
 import torch.utils.data
 from utils import dataloader
-from models.casenet import casenet101 as CaseNet101
+from casenet import casenet101 as CaseNet101
 import os
 import cv2
 import tqdm

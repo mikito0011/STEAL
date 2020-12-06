@@ -27,9 +27,9 @@
 import torch
 import numpy as np
 import torch.utils.data
-from models.casenet import casenet101 as CaseNet101
+from casenet import casenet101 as CaseNet101
 
-from utils.dataloader import default_flist_reader
+from dataloader import default_flist_reader
 import os
 import cv2
 import tqdm
